@@ -1,3 +1,23 @@
+main > .content-panel:first-of-type {
+  display: none;
+}
+@layer starlight.base {
+  .content-panel:first-of-type {
+    padding: 0;
+    height: 0;
+    margin: 0;
+  }
+  .content-panel:first-of-type .sl-container {
+    padding: 0;
+    height: 0;
+    overflow: hidden;
+  }
+}
+@layer starlight.base {
+  .content-panel + .content-panel {
+    border-top: none;
+  }
+}
 :root {
     /* Dark (default) */
     --sl-color-white: #f4f4f5; /* zinc-100 */
@@ -72,6 +92,11 @@ a,
 .docs-content {
     color: var(--sl-color-text);
 }
+
+.docs-content hr:first-of-type {
+    display: none;
+}
+
 a[aria-current='page'],
 a[aria-current='page']:hover,
 a[aria-current='page']:focus {

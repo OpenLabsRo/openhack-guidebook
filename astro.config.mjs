@@ -6,9 +6,16 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "OpenHack Guide",
-      logo: { src: "./src/assets/logo.inline.js", alt: "OpenHack", replacesTitle: true },
+      logo: {
+        src: "./src/assets/logo.inline.js",
+        alt: "OpenHack",
+        replacesTitle: true,
+      },
       favicon: "/logo.svg",
       customCss: ["./src/styles/zinc-theme.css"],
+      components: {
+        PageTitle: "./src/components/PageTitle.astro",
+      },
       social: [
         {
           icon: "github",

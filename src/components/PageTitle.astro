@@ -1,0 +1,6 @@
+---
+// Keep the semantic page heading for screen readers but hide it visually.
+const PAGE_TITLE_ID = "_top";
+const title = Astro.locals.starlightRoute.entry.data.title;
+---
+<h1 id={PAGE_TITLE_ID} class="sr-only">{title}</h1>
