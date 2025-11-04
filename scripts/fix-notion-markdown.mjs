@@ -105,7 +105,7 @@ function normalizeBody(body, filePath) {
   updated = updated.replace(/\u00a0/g, " ");
 
   // Normalize internal links that point to docs pages.
-  updated = updated.replace(/\]\((\/docs\/[^)\s]+)\)/g, (match, path) => {
+  updated = updated.replace(/\]\((\/[^)\s]+)\)/g, (match, path) => {
     const cleaned = normalizeDocsLink(path);
     return cleaned === path ? match : match.replace(path, cleaned);
   });
@@ -117,7 +117,7 @@ function normalizeBody(body, filePath) {
 }
 
 function normalizeDocsLink(path) {
-  if (!path.startsWith("/docs/")) return path;
+  if (!path.startsWith("/")) return path;
 
   let base = path;
   let hash = "";
@@ -141,7 +141,6 @@ function normalizeDocsLink(path) {
   if (segments.length === 0) return path;
 
   const normalizedSegments = segments.map((segment, index) => {
-    if (index === 0) return segment; // keep "docs"
     return normalizeSlugSegment(segment);
   });
 

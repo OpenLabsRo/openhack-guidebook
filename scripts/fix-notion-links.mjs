@@ -16,10 +16,10 @@ const files = await globby(`${DOCS_DIR}/**/*.md`);
 for (const file of files) {
   let txt = await fs.readFile(file, "utf8");
 
-  // [text](./Some Page.md) or (../Folder/Some Page.md) -> (/docs/some-page/)
+  // [text](./Some Page.md) or (../Folder/Some Page.md) -> (/some-page/)
   txt = txt.replace(/\((?:\.{1,2}\/)*([^)\n]+?)\.md\)/g, (_m, p) => {
     const base = slugify(path.basename(p));
-    return `(/docs/${base}/)`;
+    return `(/${base}/)`;
   });
 
   // Images from exported "assets" → /notion-assets/<file>

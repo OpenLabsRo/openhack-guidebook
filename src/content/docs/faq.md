@@ -14,7 +14,7 @@ title: "FAQ"
     
 - **What should I bring to the hackathon?**
     
-    Bring your laptop, charger, headphones, and anything else you need to work comfortably for 24 hours. We do not provide PCs, laptops, or peripherals. Check out the full [**Packing List**](/docs/packing-list/) page for details.
+    Bring your laptop, charger, headphones, and anything else you need to work comfortably for 24 hours. We do not provide PCs, laptops, or peripherals. Check out the full [**Packing List**](/packing-list/) page for details.
     
 - **How does check-in work?**
     
