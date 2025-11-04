@@ -1,0 +1,85 @@
+:root {
+    /* Dark (default) */
+    --sl-color-white: #f4f4f5; /* zinc-100 */
+    --sl-color-gray-1: #e4e4e7; /* zinc-200 */
+    --sl-color-gray-2: #d4d4d8; /* zinc-300 */
+    --sl-color-gray-3: #a1a1aa; /* zinc-400 */
+    --sl-color-gray-4: #71717a; /* zinc-500 */
+    --sl-color-gray-5: #52525b; /* zinc-600 */
+    --sl-color-gray-6: #3f3f46; /* zinc-700 */
+    --sl-color-black: #09090b; /* zinc-950 */
+
+    --sl-color-accent-low: #b83500;
+    --sl-color-accent: #ff4500; /* blood orange */
+    --sl-color-accent-high: #ff4500; /* highlight */
+
+    --sl-color-bg: #09090b;
+    --sl-color-bg-nav: #18181b; /* zinc-900 */
+    --sl-color-bg-sidebar: #111113; /* near zinc-950 */
+    --sl-color-bg-inline-code: #27272a;
+    --sl-color-bg-accent: #ff4500;
+    --sl-color-text: #ffffff;
+    --sl-color-text-accent: #ffffff;
+    --sl-color-text-invert: #ffffff;
+    --sl-color-hairline: #27272a;
+    --sl-color-hairline-light: #3f3f46;
+}
+
+:root[data-theme="light"] {
+    /* Light */
+    --sl-color-white: #18181b; /* zinc-900 */
+    --sl-color-gray-1: #27272a; /* zinc-800 */
+    --sl-color-gray-2: #3f3f46; /* zinc-700 */
+    --sl-color-gray-3: #52525b; /* zinc-600 */
+    --sl-color-gray-4: #71717a; /* zinc-500 */
+    --sl-color-gray-5: #a1a1aa; /* zinc-400 */
+    --sl-color-gray-6: #e4e4e7; /* zinc-200 */
+    --sl-color-black: #fafafa; /* zinc-50 */
+
+    --sl-color-accent-low: #ffd8bb;
+    --sl-color-accent: #ff4500;
+    --sl-color-accent-high: #ff4500;
+
+    --sl-color-bg: #f4f4f5; /* zinc-100 */
+    --sl-color-bg-nav: #e4e4e7; /* zinc-200 */
+    --sl-color-bg-sidebar: #ff4500;
+    /*--sl-color-bg-sidebar: #e4e4e7;*/
+    --sl-color-bg-inline-code: #d4d4d8;
+    --sl-color-bg-accent: #ff4500;
+    --sl-color-text: #18181b; /* zinc-900 */
+    --sl-color-text-accent: #ff4500;
+    --sl-color-text-invert: #ffffff;
+    --sl-color-hairline: #d4d4d8;
+    --sl-color-hairline-light: #e4e4e7;
+}
+
+a,
+.sl-link-primary {
+    color: var(--sl-color-text);
+}
+
+.sl-button-primary {
+    background-color: var(--sl-color-accent);
+    color: var(--sl-color-black);
+}
+
+.sl-card,
+.sidebar,
+.sl-aside {
+    background-color: var(--sl-color-bg-sidebar);
+}
+
+.docs-content {
+    color: var(--sl-color-text);
+}
+a[aria-current='page'],
+a[aria-current='page']:hover,
+a[aria-current='page']:focus {
+  background-color: #ff4500 !important;
+  color: #ffffff !important;
+}
+
+a[aria-current='page'] span,
+a[aria-current='page'] span * {
+  color: #ffffff !important;
+}
