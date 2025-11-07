@@ -28,7 +28,6 @@ Here are some useful resources and perks to help you during OpenHack 2025 and be
 
 - **Figma** **for Students** → Free premium tier for students, great for designing mockups and interfaces.
 - **Canva for Students** → Create presentations, posters, and graphics quickly.
-- **Notion for Students** → Organize notes, tasks, and documentation with free Pro access for students.
 
 ## **🎁 Student Perks & Communities**
 

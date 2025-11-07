@@ -8,15 +8,4 @@ title: "Location & Venue"
 
 Address: [Splaiul Independeței, 313, București 060042](https://maps.app.goo.gl/kxZbcKVJFaNMgbwS9)
 
-You can be at the venue 24/7
-
-<aside>
-📶
-
-Wifi name:
-
-Password:
-
-</aside>
-
-[Insert venue map here]
+You’re welcome to stay at the venue for the full duration of the event, or leave whenever you need a break. Please keep your **badge** and **wristband** with you, as they’re required for **reentry**.

@@ -32,10 +32,9 @@ export default defineConfig({
             { label: "Packing List", slug: "packing-list" }, // packing-list.md
             { label: "Location & Venue", slug: "location-venue" }, // location-venue.md
             { label: "Check-In", slug: "check-in" }, // check-in.md
-            { label: "Schedule", slug: "schedule" }, // schedule.md
+            { label: "Agenda", slug: "agenda" }, // agenda.md
             { label: "Transportation", slug: "transportation" }, // transportation.md
-            { label: "FAQ", slug: "faq" }, // faq.md
-            { label: "Sponsors", slug: "sponsors" }, // sponsors.md
+            { label: "Perks", slug: "perks" }, // perks.md
           ],
         },
 
@@ -43,7 +42,7 @@ export default defineConfig({
         {
           label: "Hacking",
           items: [
-            { label: "Challenge Intro", slug: "challenge-intro" }, // challenge-intro.md
+            { label: "Challenge Info", slug: "challenge-info" }, // challenge-info.md
             { label: "Resources", slug: "resources" }, // resources.md
             { label: "Judging Process", slug: "judging-process" }, // judging-process.md
             { label: "Submissions", slug: "submissions" }, // submissions.md
@@ -77,7 +76,7 @@ export default defineConfig({
           label: "After the event",
           items: [
             { label: "Photos & Videos", slug: "photos-videos" }, // photos-videos.md
-            { label: "Certificates", slug: "certificates" }, // certificates.md
+            { label: "Prizes", slug: "prizes" }, // photos-videos.md
           ],
         },
       ],

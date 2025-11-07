@@ -28,7 +28,7 @@ We will **not provide PCs, laptops, monitors, or peripherals**. Please make sure
 ## **📑 Important Stuff**
 
 - Student ID / ID card (for check-in)
-- Registration confirmation (email or QR code)
+- Registration confirmation (QR code)
 
 ## **🖥 Tech Essentials**
 
@@ -48,7 +48,7 @@ We will **not provide PCs, laptops, monitors, or peripherals**. Please make sure
 
 ## **🍫 Food & Drinks**
 
-- Water bottle (refillable)
+- Water bottle
 - Snacks you like
 - Coffee/tea
 

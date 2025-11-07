@@ -4,43 +4,39 @@ title: "Judging Process"
 
 # Judging Process
 
-At OpenHack 2025, judging is designed to be **interactive and inspiring**.
+### **Important Deadlines**
 
-## **🔎 How Judging Works**
+📅 **GitHub Link & Project Description**
 
-- Judging will be **expo-style**: teams set up their projects at their tables, and judges walk around to see demos, ask questions, and interact directly with participants.
-- Judges will be present throughout the event, getting a sense of how teams work and how projects evolve — not just at the end.
-- After reviewing all projects, judges will select the **top 3 teams**.
-- From these finalists, the **audience will vote** to decide the ultimate winner.
+**Saturday, 8 November @ 18:00**
 
-## **📅 Important Deadlines**
+💻 **Final GitHub Push & Presentation Link**
 
-- **Add the Github Project link on the OpenHack website by November 8th, 21:00**
-- **Last Github Push:** November 9th, 13:00
-- **Expo-style judging & final presentations:** November 9th, afternoon
+**Sunday, 9 November @ 13:00**
 
-## **⚖️ Judging Criteria**
+Make sure your project repository, description, and presentation are submitted by these times to be eligible for judging.
 
-Each project will be evaluated on:
+---
 
-**Originality**
+### **Judging Format**
 
-How creative and innovative is the idea? Does it stand out?
+**First Round**
 
-**Execution**
+Mentors will visit each team in small groups to evaluate your projects. They’ll select the **top 5 teams** to move forward to the final round.
 
-How well was the idea implemented in 24 hours? Is it functional and polished?
+**Second Round**
 
-**Impact**
+A **public vote** will decide the winners. Every participant will cast their vote for the **best three teams**.
 
-Does the project solve a real problem or bring meaningful value?
+---
 
-**Presentation**
+### **Presentation Format**
 
-How clearly and convincingly was the idea explained and demonstrated to the judges?
+The **top 5 teams** will each give a **5-minute pitch** in front of all participants.
 
-## **🏅 Prizes**
+**Requirements:**
 
-- Sponsors will provide prizes for the winning team and special mentions.
-- All participants will receive swag and goodies.
-- Prize details will be announced closer to the event.
+- After 5 minutes, the microphone will be cut off.
+- The PowerPoint presentation must be prepared **during the coding period**.
+- Each team will have **only one microphone**.
+- All demos, videos, and other media must be included in the **.pptx file** you submit.

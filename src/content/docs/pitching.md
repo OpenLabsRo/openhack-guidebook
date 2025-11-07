@@ -22,7 +22,7 @@ title: "Pitching"
 
 We will inform and come get the teams that will be pitching after the reviewing period has ended.
 
-- After this you will be taken to the streaming stage where you will pitch your project.
+- After this you will be taken to the stage where you will pitch your project.
 
 There will be one hand held mic per team while pitching.
 
@@ -30,7 +30,7 @@ There will be one hand held mic per team while pitching.
 
 We recommend you have an ad video inside the presentation that shows how your product used in the day to day lives - this has a great impact on the audience.
 
-Everything (demos, videos etc.) needs to be included in the slides that you submit in pptx form
+Everything (demos, videos etc.) needs to be included in the slides that you submit in pptx form by 13:00 on Sunday
 
 - The slides are the slides that you have submitted on the platform during the final submission
 - You WILL NOT be showing the slides from your computer.

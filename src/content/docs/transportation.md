@@ -8,7 +8,7 @@ title: "Transportation"
 
 We’re excited to announce that we’ve partnered with **Blue**, our official mobility partner! 🎉
 
-All participants can use the code **OpenHack** in the **Blue app** for 50**% off your ride** (for up to 2 rides, maximum of 13 RON off/ride ). 
+All participants can use the code **OH25** in the **Blue app** for 50**% off your ride** (for up to 2 rides, maximum of 13 RON off/ride ). 
 
 </aside>
 
