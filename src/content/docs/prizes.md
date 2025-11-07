@@ -8,9 +8,8 @@ title: "Prizes"
 
 ### **First Place Team**
 
-**800€ cash prize**
-
-- 1 **Lofree Flow 100 keyboard** (worth 200€) per participant
+- **800€ cash prize**
+- 1 **Lofree Flow 100 keyboard**  per participant
 - **200 RON** Blue app credit per participant
 - **1 year of Framer Pro** per participant
 - **1 year of Dribbble Pro** per participant

@@ -26,4 +26,4 @@ You’re part of the OpenHack story, and that comes with some pretty great
 
 <!--</aside>-->
 
-Didn't find an answer to your question? Reach out to us at **support@openhack.ro** or ****via **Whatsapp.**
+Didn't find an answer to your question? Reach out to us at **support@openhack.ro** or via **Whatsapp.**
